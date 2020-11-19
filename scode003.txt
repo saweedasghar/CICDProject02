@@ -4,3 +4,5 @@ wellcome the smart git GUI Server
 wellcome the smart git GUI Server
 wellcome the smart git GUI Server
 
+new lines has been added.
+
